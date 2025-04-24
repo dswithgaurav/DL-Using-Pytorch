@@ -8,3 +8,5 @@
     - Plotting the function and gradient
     - Random Initialization
     - Learning Rate
+3. Artificial Neural Network
+    - ANNs for Regression
