@@ -10,3 +10,5 @@
     - Learning Rate
 3. Artificial Neural Network
     - ANNs for Regression
+    - ANN for Classification
+    - Making the Model Bigger
